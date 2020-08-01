@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ca76028b-261e-45d2-979e-6716ae3832fe" name="Default Changelist" comment="" />
+    <list default="true" id="ca76028b-261e-45d2-979e-6716ae3832fe" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,11 +22,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/HappyB20.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="190">
               <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/August01.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -51,11 +62,12 @@
       <list>
         <option value="$PROJECT_DIR$/src/HelloB20.java" />
         <option value="$PROJECT_DIR$/src/HappyB20.java" />
+        <option value="$PROJECT_DIR$/src/August01.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="673" />
+    <option name="x" value="735" />
     <option name="y" value="23" />
     <option name="width" value="782" />
     <option name="height" value="823" />
@@ -94,7 +106,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1596299863618" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1596308611407" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -153,8 +165,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="673" y="23" width="782" height="823" extended-state="0" />
-    <editor active="true" />
+    <frame x="735" y="23" width="782" height="823" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2780822" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -170,9 +181,9 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4987715" weight="0.3286517" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4987715" weight="0.3286517" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.4987715" visible="true" weight="0.3300562" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5012285" side_tool="true" weight="0.3286517" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="9" visible="true" weight="0.3286517" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.3286517" />
       <window_info anchor="bottom" id="Messages" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -239,6 +250,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
           <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/August01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
         </state>
       </provider>
     </entry>
